@@ -41,7 +41,7 @@
   <a href="https://discord.com/channels/_jhonny_goi4b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a> 
-  <img align="left" height="150" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  />
+  <img align="rigth" height="150" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  />
 
 </div>
 
