@@ -33,16 +33,17 @@
 
 <br clear="both">
 
-<div  style="display:flex" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/joneffe-silva-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0236a1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/_jhonny_goi4b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a> 
-  <img align="rigth" height="150" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  />
-
+<div style="display: flex; justify-content: space-between; align-items: flex-end; height: 150px;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <a href="https://www.linkedin.com/in/joneffe-silva-dev/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0236a1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
+    <a href="https://discord.com/channels/_jhonny_goi4b" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    </a> 
+  </div>
+  <img height="150" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="animated image" />
 </div>
 
 ###
