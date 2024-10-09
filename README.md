@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; height: 150px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; height: 150;">
   <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     <a href="https://www.linkedin.com/in/joneffe-silva-dev/" target="_blank">
