@@ -1,10 +1,14 @@
-<h3 align="left">"HI, i'am JhonnySilva"</h3>
+<br clear="both">
+
+<h4 align="left">"HI, i'am JhonnySilva"</h4>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JH0nnYGb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JH0nnYGb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JH0nnYGb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JH0nnYGb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
@@ -33,20 +37,18 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; height: 150;">
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    <a href="https://www.linkedin.com/in/joneffe-silva-dev/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0236a1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
-    <a href="https://discord.com/channels/_jhonny_goi4b" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-    </a> 
-  </div>
-  <img height="150" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="animated image" />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/joneffe-silva-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0236a1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/_jhonny_goi4b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
+<img align="left" height="150" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"  />
 
 ###
