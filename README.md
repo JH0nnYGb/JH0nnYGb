@@ -40,7 +40,7 @@
   <a href="https://discord.com/channels/@me/1280170997126795375" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="silvajoneffe@gmail.com" target="_blank">
+  <a href="mailto:silvajoneffe@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=silvajoneffe@&logo=gmail&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joneffe-silva-dev/" target="_blank">
