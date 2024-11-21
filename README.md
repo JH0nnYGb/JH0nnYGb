@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/82/9a/fb/829afba7de253e927c9c56bd58c4ba3d.gif"  />
+
 
 ### 🔧 Tools:
 <div align="left">
@@ -54,5 +54,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<img align="right" height="160" src="https://i.pinimg.com/originals/82/9a/fb/829afba7de253e927c9c56bd58c4ba3d.gif"  />
 
 ###
