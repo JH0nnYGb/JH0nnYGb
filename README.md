@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
 </div>
-
+<img align="right" height="160" src="https://i.pinimg.com/originals/82/9a/fb/829afba7de253e927c9c56bd58c4ba3d.gif"  />
 ### 📱 Social Links:
 <div align="left">
   <a href="https://www.instagram.com/jhonn_ydev/profilecard/?igsh=bndwNjY4bmJwOHp6" target="_blank">
@@ -54,6 +54,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<img align="right" height="160" src="https://i.pinimg.com/originals/82/9a/fb/829afba7de253e927c9c56bd58c4ba3d.gif"  />
+
 
 ###
